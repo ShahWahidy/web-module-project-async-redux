@@ -1,10 +1,13 @@
 import React from 'react';
-import './App.css';
+
+import Activity from './components/Activity';
+import './styles.css';
 
 function App() {
   return (
     <div className="App">
-      Async Redux Project
+      <h1>Are You Bored?</h1>
+      <Activity />
     </div>
   );
 }

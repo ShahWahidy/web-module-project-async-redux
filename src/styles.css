@@ -1,0 +1,17 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+body{
+  background-color: rgb(247, 243, 239);
+}
+p{
+  font-size: large;
+  font-family:cursive;
+  color: blueviolet;
+}
+button{
+  color: rgb(38, 0, 255);
+  padding: 5%;
+  border-radius: 1em;
+}
